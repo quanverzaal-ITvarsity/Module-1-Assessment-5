@@ -21,6 +21,7 @@ p{
     height: 40px;
     background-color: darkgray;
     padding-top:12px;
+    text-align:center;
 }
 #menu a{
     color:#ffffff;
@@ -36,4 +37,12 @@ p{
 }
 #menu a:hover{
     color:#5077bd;
+}
+
+#contact{
+    text-align:center;
+    background-color: lightcyan;
+    font-family: helvetica sans-serif;
+    font-size:20px;
+
 }
